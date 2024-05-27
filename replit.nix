@@ -1,5 +1,6 @@
 { pkgs }: {
   deps = [
+    pkgs.imagemagick
     pkgs.tk
     pkgs.tcl
     pkgs.qhull

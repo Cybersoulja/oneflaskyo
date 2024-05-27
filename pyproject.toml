@@ -14,6 +14,8 @@ sdk-openapi = "1.2.0"
 matplotlib = "3.8.2"
 django-mp-modal = "^0.0.1"
 0-0-1 = "^0.0.1"
+unzip-http = "0.4"
+stream-unzip = "0.0.91"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
